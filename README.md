@@ -22,9 +22,9 @@ Komputer akan menentukan pilihannya secara acak, kemudian program akan membandin
 
 >Anggota Kelompok
 
-- Ali – Tampilan (UI)
-- Dzikri – Logika Permainan
-- Fayqa – Fitur Skor, Replay, dan Testing
+- Ali Taqi Al-khur
+- Dzikri Abdillah
+- Fayqa Fayyaza
 
 ---
 
